@@ -16,7 +16,7 @@ export default function App() {
 
   const slides = [
     { text: "scrol ke kanan ..." },
-    { text: "Halo vio", gif: gab },
+    { text: "Halo", gif: gab },
     { text: "Lagi sedih atau", gif: sedih },
     { text: " Lagi bahagia", gif: happy },
     { text: "Semoga lagi bahagia ya ", gif: dance },
